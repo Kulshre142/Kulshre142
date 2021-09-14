@@ -3,7 +3,7 @@
 <h3 align="center">Welcome to my Github Profile😀</h3>
 <img src="gitcat.gif" align="right" width="450" height="425"/>
 
-
+<br /><br /><br /><br />
 - 🔭 I'm currently working on Web Technologies.
 - 🌱 I'm currently learning MEA/RN Stack.
 - 👯 I'm looking to collaborate on any Machine Learning or Web Development Project.
