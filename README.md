@@ -19,7 +19,7 @@
 
 #### 📫 How to reach me:
   
-  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%"/>](https://discord.gg/Deepali#5249)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/deepali_k06/)  &nbsp; <a href="mailto:deepalikulshrestha116@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/>
+  <a href="mailto:deepalikulshrestha116@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/>
   
 <br />
   
