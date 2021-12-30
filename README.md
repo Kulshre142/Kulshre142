@@ -31,7 +31,7 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulshre142&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Kulshre142's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulshre142&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
  </br> 
 <h3 align="left">Languages and Tools:</h3>
