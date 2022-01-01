@@ -16,7 +16,6 @@
 - ⚡ **Fun fact: Estoy tan tranquila😄**
 
 <br />
-![Visitor Count](https://profile-counter.glitch.me/{Kulshre142}/count.svg)
 
 #### 📫 How to reach me:
   
