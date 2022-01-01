@@ -27,12 +27,9 @@
 
 <br />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kulshre142&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Kulshre142" /></p>
-
-
-
-
 [![Kulshre142's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulshre142&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kulshre142&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Kulshre142" /></p>
 
  </br> 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,13 +38,11 @@
   <br />
   
  ### <img align ='center' src='https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042223.gif' width ='29px'>Streak Stats:
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kulshre142&theme=black-ice" alt="Kulshre142"  /></p>
-<p align="center"> 
- 
-</p>
-  
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kulshre142&theme=black-ice" alt="Kulshre142"  /></p>
+
+
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kulshre142&label=Profile%20views&color=0e75b6&style=flat" alt="Me" /> </p>
 
