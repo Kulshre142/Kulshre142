@@ -25,7 +25,7 @@
 
 <br />
 
-&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Kulshre142's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulshre142&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp; ![Kulshre142's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kulshre142&theme=tokyonight)
+![Kulshre142's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulshre142&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp; ![Kulshre142's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kulshre142&theme=tokyonight)
 
  </br> </br></br>
 <h3 align="left">Languages and Tools:</h3>
