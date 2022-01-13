@@ -5,7 +5,7 @@
 <img src="gitcat.gif" align="right" width="450" height="425"/>
 
 <br /><br />
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> About Me:
 
 - 🔭 **I'm currently working on Web Technologies.**
 - 🌱 **I'm currently learning MEA/RN Stack.**
