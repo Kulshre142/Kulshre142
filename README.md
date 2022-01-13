@@ -17,7 +17,8 @@
 
 #### 📫 How to reach me:
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:deepalikulshrestha116@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/></a>
+ <p align="center"><a href="mailto:deepalikulshrestha116@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/></a>
+  </p>
   
 <br />
   
