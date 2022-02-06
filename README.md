@@ -8,7 +8,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> About Me:
 
 - 🔭 **I'm currently working on Web Technologies.**
-- 🌱 **I'm currently learning MEA/RN Stack.**
 - 👯 **I'm looking to collaborate on any Machine Learning or Web Development Project.**
 - 🤔 **I'm looking for help with internship opportunities.**
 - ⚡ **Fun fact: Estoy tan tranquila😄**
