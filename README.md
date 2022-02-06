@@ -9,7 +9,7 @@
 
 - 🔭 **I'm currently working on Web Technologies.**
 - 👯 **I'm looking to collaborate on any Machine Learning or Web Development Project.**
-- 🤔 **I'm looking for help with internship opportunities.**
+- 🤔 **I'm looking for help with internship/job opportunities.**
 - ⚡ **Fun fact: Estoy tan tranquila😄**
 
 <br />
